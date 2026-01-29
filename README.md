@@ -18,7 +18,7 @@
 
 | Day | Topic Name | Code Link | LinkedIn Post |
 | :--- | :--- | :---: | :---: |
-| 01 | JS Basics (Arrow functions, Destructuring) | [View](./Day-01) | [Post](link) |
+| 01 | JS Function five problems | [View](./Day-01-JS-Function/) | [Post](link) |
 | ... | ... | ... | ... |
 
 ---
