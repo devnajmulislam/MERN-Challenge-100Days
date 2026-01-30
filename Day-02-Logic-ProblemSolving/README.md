@@ -3,7 +3,7 @@
 
 **Date:** January 30, 2026  
 **Status:** Completed ✅  
-**Topic:** JavaScript Basic Problem Solving (Logic & Conditions)
+**Topic:** JavaScript Logic Building & Problem Solving
 
 ## Summary
 Ajke ami JavaScript-er 5-ti basic problem solve korechi. Ei task gulo korar maddhome ami conditional statements, string manipulation, array iteration, ebong object properties niye kaj korar bhalo dharona peyechi.

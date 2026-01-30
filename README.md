@@ -3,8 +3,8 @@
 আসসালামু আলাইকুম, আমি আগামী ১০০ দিন MERN Stack শেখার একটি চ্যালেঞ্জ নিয়েছি। এই রিপোজিটরিতে আমার প্রতিদিনের লার্নিং প্রগ্রেস, কোড এবং প্রজেক্টগুলো আপডেট করব👇
 
 ## Current Status
-- **Current Day:** 001/100
-- **Overall Progress:** [▓░░░░░░░░░░░░░░░░░░░] 1%
+- **Current Day:** 002/100
+- **Overall Progress:** [▓░░░░░░░░░░░░░░░░░░░] 2%
 
 ---
 ## Skills
@@ -19,6 +19,7 @@
 | Day | Topic Name | Code Link | LinkedIn Post |
 | :--- | :--- | :---: | :---: |
 | 01 | JS Function - five problems | [View](./Day-01-JS-Function/) | [Post](https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422707336617775104-IihL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A) |
+| 02 | JavaScript Logic Building & Problem Solving | [View](./Day-02-Logic-ProblemSolving/) | [Post]([https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422707336617775104-IihL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A](https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422999918312640512-gPGJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A)) |
 | ... | ... | ... | ... |
 
 ---
