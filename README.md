@@ -19,7 +19,7 @@
 | Day | Topic Name | Code Link | LinkedIn Post |
 | :--- | :--- | :---: | :---: |
 | 01 | JS Function - five problems | [View](./Day-01-JS-Function/) | [Post](https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422707336617775104-IihL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A) |
-| 02 | JavaScript Logic Building & Problem Solving | [View](./Day-02-Logic-ProblemSolving/) | [Post]([https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422707336617775104-IihL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A](https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422999918312640512-gPGJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A)) |
+| 02 | JavaScript Logic Building & Problem Solving | [View](./Day-02-Logic-ProblemSolving/) | [Post](https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422999918312640512-gPGJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A) |
 | ... | ... | ... | ... |
 
 ---
