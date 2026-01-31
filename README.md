@@ -20,7 +20,7 @@
 | :--- | :--- | :---: | :---: |
 | 01 | JS Function - five problems | [View](./Day-01-JS-Function/) | [Post](https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422707336617775104-IihL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A) |
 | 02 | JavaScript Logic Building & Problem Solving | [View](./Day-02-Logic-ProblemSolving/) | [Post](https://www.linkedin.com/posts/devnajmul_100daysofcode-mernstack-javascript-activity-7422999918312640512-gPGJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A) |
-| 03 | JavaScript Fundamentals (Core to Advanced Basics) | [View](./Day-03-JS-Fundamentals-Recap/) | [Post]() |
+| 03 | JavaScript Fundamentals (Core to Advanced Basics) | [View](./Day-03-JS-Fundamentals-Recap/) | [Post](https://www.linkedin.com/posts/devnajmul_devnajmul-mernstack-javascript-share-7423483807410012161-fw69?utm_source=share&utm_medium=member_desktop&rcm=ACoAAExMKIwB4SNaRvq8Chd19J90eWnUEu1lc3A) |
 | ... | ... | ... | ... |
 
 ---
